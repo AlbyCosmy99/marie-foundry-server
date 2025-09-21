@@ -10,8 +10,8 @@ To connect to the server via SSH, run:
 ```bash
 ssh -i ~/.ssh/foundryprivate.pem ubuntu@193.122.142.204
 ```
-Attention to the ip on the command above, it needs to be current one
 ---
+Attention to the ip on the command above, it needs to be current one.
 
 ## 2. Manage the Foundry Process
 
